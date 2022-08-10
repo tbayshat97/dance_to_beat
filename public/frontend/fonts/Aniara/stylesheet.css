@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Aniara';
+    src: url('Aniara-Regular.eot');
+    src: url('Aniara-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Aniara-Regular.woff2') format('woff2'),
+        url('Aniara-Regular.woff') format('woff'),
+        url('Aniara-Regular.ttf') format('truetype'),
+        url('Aniara-Regular.svg#Aniara-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

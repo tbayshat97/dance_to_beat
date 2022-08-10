@@ -1,0 +1,32 @@
+{
+    "menu": [
+        {
+            "url": "artist/dashboard",
+            "name": "Dashboard",
+            "i18n": "Dashboard",
+            "class": "waves-effect waves-cyan",
+            "slug": "dashboard",
+            "icon": "equalizer"
+        },
+        {
+            "navheader": "COURSES MANAGEMENT",
+            "icon": "cast"
+        },
+        {
+            "url": "artist/course",
+            "name": "My Courses",
+            "i18n": "My Courses",
+            "class": "waves-effect waves-cyan",
+            "icon": "record_voice_over",
+            "slug": "artist/course"
+        },
+        {
+            "url": "artist/live-course",
+            "name": "Start live course",
+            "i18n": "Start live course",
+            "class": "waves-effect waves-cyan",
+            "icon": "videocam",
+            "slug": "live-course"
+        }
+    ]
+}

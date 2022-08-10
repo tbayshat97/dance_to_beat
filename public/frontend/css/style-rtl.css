@@ -1,0 +1,394 @@
+body, 
+body p,
+body span,
+body li,
+body .description {
+    font-family: 'Tajawal' !important;
+}
+body a {
+    font-family: 'Tajawal' !important;
+}
+body h1,
+body h2,
+body h3,
+body h4,
+body h5,
+body h6,
+body h1 span,
+body h2 span,
+body h3 span,
+body h4 span,
+body h5 span,
+body h6 span {
+    font-family: 'Tajawal' !important;
+    font-style: normal;
+}
+
+#home-section-1 {
+    background-image: url(../images/home-background-ar.png);
+    background-position: left;
+}
+#sidebar-cart {
+    left: -400px;
+    right: unset;
+}
+body.show-sidebar-cart #sidebar-cart {
+    right: unset;
+    left: 0;
+}
+#sidebar-cart {
+    transition: left 0.3s ease-in-out;
+}
+.removeBtn {
+    right: auto !important;
+    left: 0;
+}
+.product p.cart {
+    right: auto;
+    left: 0;
+    border-radius: 44px 44px 44px 0;
+}
+body .page-item:not(:first-child) .page-link {
+    margin-right: 5px;
+}
+.page-item:last-child .page-link:after {
+    content: "\f060";
+}
+.page-item:first-child .page-link:after {
+    content: "\f061";
+}
+.filters .form-check-label {
+    padding-left: 0;
+    padding-right: 10px;
+}
+.accordion-item {
+    border: 0;
+    border-bottom: 1px solid #eeeeee;
+}
+.accordion-button:not(.collapsed)::after {
+    margin-left: 0;
+}
+.post-title img {
+    margin-right: 0;
+    margin-left: 10px;
+}
+.post-title p {
+    text-align: left;
+}
+.post-title .comment-padding {
+    padding-left: 0;
+    padding-right: 85px;
+}
+.like-reply button {
+    margin: 10px 0 10px 10px;
+}
+.post-actions p i {
+    margin-right: 0;
+    margin-left: 10px;
+}
+#contact-us .right {
+    background-position: right;
+}
+#contact-us p img {
+    margin-right: 0;
+    margin-left: 10px;
+}
+.plantmore-product-add-cart {
+    text-align: left;
+}
+.plantmore-product-add-cart a i {
+    margin-left: 0;
+    margin-right: 5px;
+}
+.account-background {
+    background-image: linear-gradient(
+-90deg
+, #F6F6F6 37%, #fff 37%);
+}
+form.edit-profile input[type="email"] {
+    background-image: url(../images/envelope.svg);
+    background-repeat: no-repeat;
+    background-position: 4%;
+    background-size: 20px;
+}
+form.edit-profile input {
+    text-align: right;
+    background-position: 4% !important;
+}
+label.custom-file-input {
+    width: auto;
+}
+.owl-carousel .owl-stage-outer {
+    direction: ltr;
+}
+#subscribe button {
+    border-radius: 201px 0 0 201px;
+}
+#subscribe input {
+    border-radius: 0 201px 201px 0;
+    text-align: right;
+}
+#subscribe .fa-arrow-right:before {
+    content: "\f060";
+}
+.fa-arrow-right:before {
+    content: "\f060";
+}
+.testimonial .text p {
+    text-align: right;
+}
+#how-to-start .row>div:nth-child(2):after, #how-to-start .row>div:nth-child(3):after {
+    right: auto;
+    left: -20px;
+    transform: translateY(-50%) scaleX(-1);
+}
+button.add-to-cart {
+    border-radius: 0 214px 214px 0;
+}
+button.buy-now {
+    border-radius: 214px 0 0 214px;
+}
+.data ul {
+    text-align: right;
+}
+.data ul li:after {
+    left: auto;
+    right: -26px;
+}
+#contact-us .right input, 
+#contact-us textarea {
+    text-align: right;
+}
+form.checkout input:not(input[type="checkbox"],
+ input[type="radio"]) {
+    direction: rtl;
+}
+#terms-and-conditions {
+    float: right;
+}
+.form-check.payment {
+    padding-right: 0;
+}
+#home-section-2 .row div:first-child {
+    padding-right: 12px;
+    padding-left: 100px;
+}
+.calendar {
+    direction: ltr;
+}
+.calendar .timepicker {
+    direction: rtl;
+}
+button.request {
+    text-align: right;
+}
+.inner-wrap .request .sendRequest {
+    right: auto;
+    left: 20px;
+    transform: scaleX(-1);
+}
+.inner-wrap .request {
+    text-align: right;
+}
+#appointmentModal .btn-close, #confirmationModal .btn-close {
+    left: 20px;
+    right: auto;
+}
+#testimonials #counter {
+    text-align: left;
+}
+.clear-filters {
+    display: flex;
+    align-items: center;
+}
+.clear-filters i {
+    margin-right: 5px;
+}
+#store p {
+    direction: ltr;
+    text-align: right;
+}
+.product-gallery {
+    direction: ltr;
+}
+.data h4 {
+    text-align: right;
+}
+#related-products h1 {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+}
+.result-content .form-check:nth-child(even) {
+    padding-right: 15%;
+    padding-left: 12px;
+    float: right;
+}
+.result-content .form-check-label {
+    padding-right: 35px;
+    text-align: right;
+}
+.result-content .checkmark {
+    right: 6px;
+    left: auto;
+}
+#sidebar a {
+    margin-right: 0 !important;
+}
+.profile-gender [type="radio"]:checked, 
+.profile-gender [type="radio"]:not(:checked) {
+    right: -9999px;
+    left: unset;
+}
+.profile-gender [type="radio"]:checked + label, 
+.profile-gender [type="radio"]:not(:checked) + label {
+    padding-right: 28px;
+    padding-left: 12px;
+}
+.profile-gender [type="radio"]:checked + label:before, 
+.profile-gender [type="radio"]:not(:checked) + label:before {
+    right: 0;
+    left: auto;
+}
+.profile-gender [type="radio"]:checked + label:after, 
+.profile-gender [type="radio"]:not(:checked) + label:after {
+    right: 3px;
+    left: auto;
+}
+.profile-gender > .row {
+    margin: 10px 0 10px 25px !important;
+}
+label.custom-file-input span {
+    font-size: 16px;
+    position: absolute;
+    right: 146px;
+    border-radius: 50%;
+    color: #fff;
+    background: #E03C8A;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    padding: 6px;
+    top: 12px;
+    cursor: pointer;
+    left: auto;
+}
+form.edit-profile .submit-buttons button.save {
+    font-family: 'Tajawal';
+}
+body .footer-top p.pink-text {
+    font-family: 'Tajawal' !important;
+}
+#registerContent input:not(input[type="checkbox"], 
+input[type="number"]), 
+.code input[type="tel"] {
+    text-align: right;
+}
+#register-tabs button {
+    font-family: 'Tajawal';
+}
+#register-tabs button {
+    margin: 20px 0 20px 40px;
+}
+#register-tabs button.active:after {
+    right: -20px;
+    left: auto;
+}
+.register-content button {
+    font-family: 'Tajawal' !important;
+}
+.register-content button.facebook {
+    font-size: 17px;
+    padding: 14px 45px;
+}
+.register-content button.google {
+    padding: 12px 38px;
+    font-size: 17px;
+}
+.register-content button.apple {
+    padding: 10px 38px;
+    font-size: 17px;
+}
+.accordion-button::after {
+    margin-left: 0;
+}
+body ._vue-flash-msg-body._vue-flash-msg-body_success ._vue-flash-msg-body__content {
+    padding-right: 20px;
+    padding-left: 0;
+    border-right: 5px solid #01947a;
+    border-left: 0;
+}
+body ._vue-flash-msg-body._vue-flash-msg-body_error ._vue-flash-msg-body__content {
+    padding-right: 20px;
+    padding-left: 0;
+    border-right: 5px solid #f12222;
+    border-left: 0;
+}
+.checkout input:not(input[type="checkbox"] , input[type="radio"]) {
+    text-align: right;
+}
+.checkout [type="radio"]:checked, .checkout [type="radio"]:not(:checked) {
+    right: -9999px;
+    left: unset;
+}
+.checkout [type="radio"]:checked + label, .checkout [type="radio"]:not(:checked) + label {
+    padding-right: 28px;
+}
+.checkout [type="radio"]:checked + label:before, 
+.checkout [type="radio"]:not(:checked) + label:before {
+    right: 0;
+    left: auto;
+}
+.checkout [type="radio"]:checked + label:after, .checkout [type="radio"]:not(:checked) + label:after {
+    right: 3px;
+    left: auto;
+}
+.checkout button.submit {
+    font-family: 'Tajawal';
+}
+body .checkout {
+    max-width: 55%;
+}
+.change-password button.submit {
+    font-family: 'Tajawal';
+}
+@media (max-width: 767px) {
+    .side-menu-close span {
+        background: #58595B;
+        right: 10px;
+        left: auto;
+    }
+    .mobile-menu-header .side-menu-close {
+        left: 15px;
+        right: auto;
+    }
+    .side-menu-wrap {
+        right: -100%;
+        left: auto;
+    }
+    .side-menu-wrap.opened {
+        right: 0;
+        left: auto;
+    }
+    ul.lang a {
+        font-family: 'Aniara-Regular' !important;
+    }
+    .side-menu-nav .main-menu>li>a {
+        padding: 15px 10px 15px 30px;
+    }
+    .account-background {
+        background-image: linear-gradient(
+    90deg
+    , #fff 37%, #fff 37%);
+        padding: 0;
+    }
+    .change-password {
+        max-width: 90%;
+        margin: auto;
+        padding-top: 20px;
+    }
+    body .checkout {
+        max-width: 100%;
+        padding: 20px;
+    }
+}

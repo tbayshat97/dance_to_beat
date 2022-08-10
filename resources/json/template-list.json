@@ -1,0 +1,16 @@
+{
+    "listItems": [
+        {
+            "url": "dashboard",
+            "name": "Dashboard",
+            "icon": "dashboard",
+            "category": "Pages"
+        },
+        {
+            "url": "chat",
+            "name": "Chat",
+            "icon": "add_shopping_cart",
+            "category": "Pages"
+        }
+    ]
+}

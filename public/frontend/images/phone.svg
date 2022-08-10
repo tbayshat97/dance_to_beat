@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26.843" height="26.843" viewBox="0 0 26.843 26.843">
+  <g id="phone-3" transform="translate(1 1)">
+    <circle id="Oval" cx="2.484" cy="2.484" r="2.484" transform="translate(9.937 16.562)" fill="none" stroke="#e03c8a" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path" d="M4.969,0H19.875l4.969,5.8v5.8H0V5.8Z" transform="translate(0 13.25)" fill="none" stroke="#e03c8a" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path-2" data-name="Path" d="M19.875,0H4.969A4.968,4.968,0,0,0,0,4.969V8.281H6.625V4.969H18.218V8.281h6.625V4.969A4.968,4.968,0,0,0,19.875,0Z" transform="translate(0)" fill="none" stroke="#e03c8a" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>

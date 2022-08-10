@@ -1,0 +1,48 @@
+<svg id="Artwork" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36.382" height="61.992" viewBox="0 0 36.382 61.992">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_2" data-name="Clip 2" d="M0,0H29.662V37.056H0Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e03c8a"/>
+      <stop offset="1" stop-color="#f192bf"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <path id="Clip_47" data-name="Clip 47" d="M0,0H9.257V22.483H0Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_3" data-name="Group 3" transform="translate(2.278 0)">
+    <path id="Clip_2-2" data-name="Clip 2" d="M0,0H29.662V37.056H0Z" transform="translate(0)" fill="none"/>
+    <g id="Group_3-2" data-name="Group 3" transform="translate(0)" clip-path="url(#clip-path)">
+      <path id="Fill_1" data-name="Fill 1" d="M2.05,33.686a25.166,25.166,0,0,0,12.931,3.37,24.573,24.573,0,0,0,12.832-3.37,45.256,45.256,0,0,0,1.165-4.572C31.444,16.736,26.981,0,19.8,1.735,18.1-.991,11.465.006,8.671,1.272,3.386,3.666-1.535,5.745.449,26.5a31.544,31.544,0,0,0,1.6,7.188" transform="translate(0 0)" fill="#de3686"/>
+    </g>
+  </g>
+  <path id="Fill_4" data-name="Fill 4" d="M2.408,23.521H21.292L21.2,20.778,23.709,1.462,19.354,0,4.507.115,0,1.462,2.359,20.857Z" transform="translate(5.929 38.471)" fill="url(#linear-gradient)"/>
+  <path id="Fill_6" data-name="Fill 6" d="M0,8.659s-.242,5.6,7.117,5.6,7.73-5.714,7.73-5.714L10.782,7.5,10.907,0,4.1.321,3.915,7.5Z" transform="translate(10.435 29.927)" fill="#f6b09d"/>
+  <path id="Fill_8" data-name="Fill 8" d="M7.677,3.8,7.9,0H0L.415,3.828S2.568,6.6,4.743,6.317A3.911,3.911,0,0,0,7.677,3.8" transform="translate(13.604 29.889)" fill="#ef9d89"/>
+  <path id="Fill_10" data-name="Fill 10" d="M21.985,11.591a82.746,82.746,0,0,1-.507,10.745c-.826,4.893-6.294,8.3-10.611,8.3a10.542,10.542,0,0,1-10.243-8.3A81.144,81.144,0,0,1,0,12.221C0,2.264,4.459,0,10.867,0s10.2-.151,11.118,11.591" transform="translate(6.665 4.358)" fill="#f6b09d"/>
+  <path id="Fill_12" data-name="Fill 12" d="M.055,1.78c.2.167-.006-.623,2.274-.774.64-.042,2.368.35,2.348-.014S4.78.023,4.138,0a6.909,6.909,0,0,0-2.987.54c-.939.505-1.3,1.069-1.1,1.237" transform="translate(9.858 15.482)" fill="#583536"/>
+  <path id="Fill_14" data-name="Fill 14" d="M4.844,1.787c-.214.168,0-.622-2.385-.777C1.789.966-.019,1.355,0,.99S-.111.021.562,0a7.566,7.566,0,0,1,3.13.545c.984.508,1.365,1.072,1.152,1.239" transform="translate(20.382 15.473)" fill="#6b2107"/>
+  <path id="Fill_16" data-name="Fill 16" d="M5.136,2.568A2.568,2.568,0,1,1,2.568,0,2.568,2.568,0,0,1,5.136,2.568" transform="translate(3.768 19.036)" fill="#f6b09d"/>
+  <path id="Fill_18" data-name="Fill 18" d="M5.137,2.568A2.568,2.568,0,1,1,2.569,0,2.568,2.568,0,0,1,5.137,2.568" transform="translate(26.119 19.036)" fill="#f6b09d"/>
+  <path id="Fill_20" data-name="Fill 20" d="M20.691,3.64a22.712,22.712,0,0,1,3.221,8.6c.462,3.453-1.807,8.086-2.086,8.214,1.474-7.58-6.62-14.672-6.62-14.672s-3.93,5.242-7.478,6.236c-6.148,1.724-5.5,4.779-5.5,4.779l.17,4.359A13.193,13.193,0,0,1,.265,14.843C.139,11.4-1.513,7.943,5.3,2.565,12.723-3.3,20.171,2.573,20.691,3.64" transform="translate(5.664 1.735)" fill="#e03c8a"/>
+  <path id="Fill_22" data-name="Fill 22" d="M2.393,1.2A1.2,1.2,0,1,1,1.2,0a1.2,1.2,0,0,1,1.2,1.2" transform="translate(10.999 19.036)" fill="#432918"/>
+  <path id="Fill_24" data-name="Fill 24" d="M2.394,1.2A1.2,1.2,0,1,1,1.2,0a1.2,1.2,0,0,1,1.2,1.2" transform="translate(21.636 19.036)" fill="#432918"/>
+  <path id="Fill_26" data-name="Fill 26" d="M7.874,0A3.937,3.937,0,0,1,3.937,3.937,3.937,3.937,0,0,1,0,0Z" transform="translate(13.616 26.694)" fill="#fefefe"/>
+  <path id="Fill_28" data-name="Fill 28" d="M4.413,1.119c0,.618-.988,1.12-2.206,1.12S0,1.737,0,1.119.988,0,2.206,0,4.413.5,4.413,1.119" transform="translate(20.871 21.933)" fill="#ef9d89"/>
+  <path id="Fill_30" data-name="Fill 30" d="M4.414,1.119c0,.618-.989,1.12-2.207,1.12S0,1.737,0,1.119.988,0,2.206,0,4.414.5,4.414,1.119" transform="translate(9.989 21.933)" fill="#ef9d89"/>
+  <path id="Fill_32" data-name="Fill 32" d="M1.937.636c0,.1-.434.181-.969.181S0,.736,0,.636A1.191,1.191,0,0,1,.968,0a1.191,1.191,0,0,1,.969.636" transform="translate(16.903 22.122)" fill="#f5ad87"/>
+  <path id="Fill_34" data-name="Fill 34" d="M9.347,23.72v-4.4L5.568,0,0,1.661,1.3,23.72Z" transform="translate(5.929 38.272)" fill="#14225d"/>
+  <path id="Fill_36" data-name="Fill 36" d="M4.53,16.3,2.782,17.7,6.445,23.72h.542v-4.4L3.209,0,0,.957,2.4,16.106Z" transform="translate(8.288 38.273)" fill="#041144"/>
+  <path id="Fill_38" data-name="Fill 38" d="M4.725,10.93c.041-.376.084-.748.131-1.116.117-.83.214-1.629.333-2.39s.223-1.48.336-2.144c.219-1.328.417-2.435.558-3.2s.23-1.208.23-1.208L1.094,0S1.032.46.925,1.266.682,3.22.531,4.6C.453,5.291.386,6.043.306,6.835S.17,8.473.1,9.342c-.039.517-.068,1.05-.1,1.588Z" transform="translate(0.568 51.062)" fill="#f8bb8c"/>
+  <path id="Fill_40" data-name="Fill 40" d="M8.033,24,9.347,1.661,3.778,0,0,19.319V24Z" transform="translate(19.741 37.99)" fill="#14225d"/>
+  <path id="Fill_42" data-name="Fill 42" d="M.369,24,4.2,17.695,2.456,16.3l2.126-.189L6.987.957,3.778,0,0,19.319V24Z" transform="translate(19.741 37.99)" fill="#041144"/>
+  <path id="Fill_44" data-name="Fill 44" d="M.5,3.181c.313.8.753,1.96,1.21,3.358a36.1,36.1,0,0,1,1.244,4.746c.028.156.051.314.076.471h4.7c-.027-.391-.06-.774-.1-1.145A40.574,40.574,0,0,0,6.516,5.119C6.1,3.566,5.7,2.3,5.407,1.412,5.254.967,5.136.617,5.054.379S4.918,0,4.918,0L0,1.951l.131.308L.5,3.181" transform="translate(28.285 50.237)" fill="#f8bb8c"/>
+  <g id="Group_48" data-name="Group 48" transform="translate(27.126 39.509)">
+    <path id="Clip_47-2" data-name="Clip 47" d="M0,0H9.257V22.483H0Z" transform="translate(0 0)" fill="none"/>
+    <g id="Group_48-2" data-name="Group 48" transform="translate(0 0)" clip-path="url(#clip-path-2)">
+      <path id="Fill_46" data-name="Fill 46" d="M2.972,22.483H9.257C9.083,17.769,7.651,2.874,1.962.141-1.668-1.6.851,13.355.851,13.355Z" transform="translate(0 0)" fill="#14225d"/>
+    </g>
+  </g>
+  <path id="Fill_49" data-name="Fill 49" d="M6.05,22.2l.989-8.845S9.559-1.6,5.929.141C.509,2.744.036,16.754,0,22.2Z" transform="translate(0 39.792)" fill="#14225d"/>
+</svg>

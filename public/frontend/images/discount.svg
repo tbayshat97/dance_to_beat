@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="35" viewBox="0 0 30 35">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e03c8a"/>
+      <stop offset="1" stop-color="#f192bf"/>
+    </linearGradient>
+    <filter id="Card" x="-12" y="-7" width="54" height="59" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-opacity="0.086"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Artboard_1">
+      <rect width="30" height="35"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard – 1" clip-path="url(#clip-Artboard_1)">
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Card)">
+      <path id="Card-2" data-name="Card" d="M0,0H30V25.863A9.16,9.16,0,0,1,20.816,35H9.184A9.16,9.16,0,0,1,0,25.863Z" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

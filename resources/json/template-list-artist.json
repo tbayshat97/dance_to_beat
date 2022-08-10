@@ -1,0 +1,10 @@
+{
+    "listItems": [
+        {
+            "url": "dashboard",
+            "name": "Dashboard",
+            "icon": "dashboard",
+            "category": "Pages"
+        }
+    ]
+}

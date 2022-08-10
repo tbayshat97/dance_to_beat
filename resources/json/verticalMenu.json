@@ -1,0 +1,274 @@
+{
+    "menu": [
+        {
+            "url": "admin/dashboard",
+            "name": "Dashboard",
+            "i18n": "Dashboard",
+            "class": "waves-effect waves-cyan",
+            "slug": "dashboard",
+            "icon": "equalizer"
+        },
+        {
+            "navheader": "CLIENTS MANAGEMENT",
+            "icon": "more_horiz"
+        },
+        {
+            "url": "admin/customer",
+            "name": "All Clients",
+            "i18n": "Clients",
+            "class": "waves-effect waves-cyan",
+            "icon": "person_outline",
+            "slug": "customer"
+        },
+        {
+            "url": "admin/subscribers",
+            "name": "Subscribers",
+            "i18n": "Subscribers",
+            "class": "waves-effect waves-cyan",
+            "icon": "card_membership",
+            "slug": "subscribers"
+        },
+        {
+            "navheader": "ARTISTS MANAGEMENT",
+            "icon": "more_horiz"
+        },
+        {
+            "url": "admin/artist",
+            "name": "Artists",
+            "i18n": "Artists",
+            "class": "waves-effect waves-cyan",
+            "icon": "live_tv",
+            "slug": "artist"
+        },
+        {
+            "navheader": "APPOINTMENTS MANAGEMENT",
+            "icon": "more_horiz"
+        },
+        {
+            "url": "admin/appointment",
+            "name": "Appointments",
+            "i18n": "Appointments",
+            "class": "waves-effect waves-cyan",
+            "icon": "event",
+            "slug": "appointment"
+        },
+        {
+            "navheader": "ADMINISTRATORS MANAGEMENT",
+            "icon": "more_horiz"
+        },
+        {
+            "url": "admin/administration",
+            "name": "Administrators",
+            "i18n": "Administrators",
+            "class": "waves-effect waves-cyan",
+            "icon": "verified_user",
+            "slug": "administration"
+        },
+        {
+            "url": "admin/roles",
+            "name": "Role Management",
+            "i18n": "Role Management",
+            "class": "waves-effect waves-cyan",
+            "slug": "admin/roles",
+            "icon": "lock_open"
+        },
+        {
+            "navheader": "COUPONS MANAGEMENT",
+            "icon": "more_horiz"
+        },
+        {
+            "url": "admin/coupon",
+            "name": "Coupons",
+            "i18n": "Coupons",
+            "class": "waves-effect waves-cyan",
+            "icon": "dock",
+            "slug": "coupon"
+        },
+        {
+            "navheader": "NOTIFICATIONS MANAGEMENT",
+            "icon": "more_horiz"
+        },
+        {
+            "url": "admin/send-notification",
+            "name": "Send Notifications",
+            "i18n": "Send Notifications",
+            "class": "waves-effect waves-cyan",
+            "icon": "notifications",
+            "slug": "send-notification"
+        },
+        {
+            "navheader": "CATALOG MANAGEMENT",
+            "icon": "more_horiz"
+        },
+        {
+            "url": "javascript:void(0)",
+            "name": "Courses",
+            "i18n": "Courses",
+            "class": "collapsible-header waves-effect waves-cyan",
+            "slug": "",
+            "icon": "cast",
+            "submenu": [
+                {
+                    "url": "admin/course",
+                    "name": "Recored",
+                    "i18n": "Recored",
+                    "class": "waves-effect waves-cyan",
+                    "slug": "course"
+                },
+                {
+                    "url": "admin/live-course",
+                    "name": "Live",
+                    "i18n": "Live",
+                    "class": "waves-effect waves-cyan",
+                    "slug": "live-course"
+                }
+            ]
+        },
+        {
+            "url": "admin/dance",
+            "name": "Dances",
+            "i18n": "Dances",
+            "class": "waves-effect waves-cyan",
+            "icon": "music_note",
+            "slug": "admin/dance"
+        },
+        {
+            "navheader": "REVIEWS",
+            "icon": "more_horiz"
+        },
+        {
+            "url": "admin/review/courses",
+            "name": "Courses Reviews",
+            "i18n": "Reviews",
+            "class": "waves-effect waves-cyan",
+            "icon": "thumbs_up_down",
+            "slug": "courses-review"
+        },
+        {
+            "url": "admin/review/artists",
+            "name": "Artists Reviews",
+            "i18n": "Reviews",
+            "class": "waves-effect waves-cyan",
+            "icon": "star_rate",
+            "slug": "artists-review"
+        },
+        {
+            "navheader": "ORDERS MANAGEMENT",
+            "icon": "more_horiz"
+        },
+        {
+            "url": "javascript:void(0)",
+            "name": "Orders",
+            "i18n": "Orders",
+            "class": "collapsible-header waves-effect waves-cyan",
+            "slug": "",
+            "icon": "add_shopping_cart",
+            "submenu": [
+                {
+                    "url": "admin/order",
+                    "name": "Clients Orders",
+                    "i18n": "Clients Orders",
+                    "class": "waves-effect waves-cyan",
+                    "slug": "Clients Orders"
+                }
+            ]
+        },
+        {
+            "url": "javascript:void(0)",
+            "name": "Transactions",
+            "i18n": "Transactions",
+            "class": "collapsible-header waves-effect waves-cyan",
+            "icon": "payment",
+            "slug": "",
+            "submenu": [
+                {
+                    "url": "admin/customerTransaction",
+                    "name": "Clients Transactions",
+                    "i18n": "Clients Transactions",
+                    "class": "waves-effect waves-cyan",
+                    "slug": "Clients Transactions"
+                }
+            ]
+        },
+        {
+            "url": "admin/subscription",
+            "name": "Subscriptions",
+            "i18n": "Subscriptions",
+            "class": "waves-effect waves-cyan",
+            "icon": "attach_money",
+            "slug": "admin/subscription"
+        },
+        {
+            "navheader": "SYSTEM MANAGEMENT",
+            "icon": "more_horiz"
+        },
+        {
+            "url": "javascript:void(0)",
+            "name": "Reports",
+            "i18n": "Reports",
+            "class": "collapsible-header waves-effect waves-cyan",
+            "slug": "",
+            "icon": "sim_card_alert",
+            "submenu": [
+                {
+                    "url": "admin/report/orders",
+                    "name": "Orders",
+                    "i18n": "Orders",
+                    "class": "waves-effect waves-cyan",
+                    "slug": "report-order"
+                },
+                {
+                    "url": "admin/report/bookings",
+                    "name": "Bookings",
+                    "i18n": "Bookings",
+                    "class": "waves-effect waves-cyan",
+                    "slug": "report-bookings"
+                },
+                {
+                    "url": "admin/report/subscriptions",
+                    "name": "Subscriptions",
+                    "i18n": "Subscriptions",
+                    "class": "waves-effect waves-cyan",
+                    "slug": "report-subscriptions"
+                }
+            ]
+        },
+        {
+            "url": "javascript:void(0)",
+            "name": "App Management",
+            "i18n": "App Management",
+            "class": "collapsible-header waves-effect waves-cyan",
+            "slug": "",
+            "icon": "smartphone",
+            "submenu": [
+                {
+                    "url": "/admin/app-slider",
+                    "name": "Main Slider",
+                    "i18n": "App Slider",
+                    "slug": "dashboard-modern"
+                },
+                {
+                    "url": "admin/staticPage",
+                    "name": "Pages Manager",
+                    "i18n": "Pages Manager",
+                    "slug": "Pages Manager"
+                },
+                {
+                    "url": "admin/walkthrough",
+                    "name": "Walkthroughs Manager",
+                    "i18n": "Walkthroughs Manager",
+                    "slug": "Walkthroughs Manager"
+                }
+            ]
+        },
+        {
+            "url": "https://www.qiotic.com/",
+            "name": "Support",
+            "i18n": "Support",
+            "class": "waves-effect waves-cyan",
+            "icon": "help_outline",
+            "slug": "support",
+            "newTab": "_blank"
+        }
+    ]
+}
